@@ -1,3 +1,10 @@
+<nav>
+  <a href="/">Home</a> ·
+  <a href="/projects/intune-autopilot.html">Projects</a> ·
+  <a href="/about.html">About</a>
+</nav>
+<hr/>
+
 ---
 layout: default
 title: Home
