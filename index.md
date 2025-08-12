@@ -1,13 +1,13 @@
+---
+layout: default
+title: Home
+---
 <nav>
   <a href="/">Home</a> ·
   <a href="/projects/intune-autopilot.html">Projects</a> ·
   <a href="/about.html">About</a>
 </nav>
----
-layout: default
-title: Home
----
-
+<hr>
 # Alfred Thomas Torres — IT Systems & Cybersecurity
 
 Welcome! I lead implementations across Microsoft 365, Intune, Defender for Endpoint, Azure AD (Entra ID), and more. Below is a curated selection of projects.
