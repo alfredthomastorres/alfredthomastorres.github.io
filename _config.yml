@@ -1,6 +1,9 @@
 title: "Alfred Torres — IT Portfolio"
 description: "Intune, Defender, M365, Networking, and security implementations."
-theme: jekyll-theme-cayman   # easy built-in theme; you can switch later
+#theme: jekyll-theme-cayman   # easy built-in theme; you can switch later
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
